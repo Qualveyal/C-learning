@@ -5,7 +5,7 @@ int main()
 	char x, y = 'i', z[2];
 	z[2] = y;
 	
-	printf("__%c__", );
+	printf("__%c__", y);
 	
 	return 0;
 }
